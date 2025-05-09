@@ -1,3 +1,7 @@
+### Prerequisites
+- Have node.js installed on your computer
+- Clone this repo somewhere on your computer: `git clone https://github.com/AdamikHQ/adamik-demo.git`
+
 ### 1) Configure your Adamik API key
 
 - Go to https://dashboard.adamik.io to get your free Adamik API key
