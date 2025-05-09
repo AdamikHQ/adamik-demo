@@ -30,7 +30,9 @@ async function getChainsData() {
 
 function parseResult(chain, result) {
   console.log(
-    `\n=== ${chain.chainId.toUpperCase()} Account State (${chain.address}) ===`
+    `\n=== ${chain.chainId.toUpperCase()} Account Balances (${
+      chain.address
+    }) ===`
   );
 
   // Display native balance information
