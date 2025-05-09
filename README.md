@@ -1,5 +1,6 @@
 ### Prerequisites
-- Have node.js installed on your computer
+- Have a Git client installed on your computer
+- Have Node.js installed on your computer
 - Clone this repo somewhere on your computer: `git clone https://github.com/AdamikHQ/adamik-demo.git`
 
 ### 1) Configure your Adamik API key
