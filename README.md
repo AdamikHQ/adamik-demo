@@ -5,10 +5,13 @@
 
 ### 2) Run the demo with the pre-configured chain and account
 
-- In a terminal, run `node demo.js`
+In a terminal:
+
+- Run `node demo-read.js`
+- Run `node demo-write.js`
 
 ### 3) Run the same demo with different chains and accounts
 
 - In _chains.js_, edit the pre-configured chains as you wish
-- Note that you don't need to change a single line of code in _demo.js_
-- Run the demo again with `node demo.js`
+- Note that you don't need to change a single line of code besides the configured chains
+- Run the demo again with `node demo-read.js` and `node demo-write.js`
